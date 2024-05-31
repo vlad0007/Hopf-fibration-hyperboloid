@@ -1,5 +1,7 @@
 # Hopf-fibration-hyperboloid
 <p>
+  <a href ="https://vlad0007.github.io/Hopf-fibration-hyperboloid/" target="_blank"> Hopf-fibration-hyperboloid</a>
+<p>
 This site shows a visualization of the Hopf fibration.
 Visualization is performed both for Hopf circles and for straight lines 
 taken instead of these circles. As a result of such visualization, 
@@ -13,5 +15,6 @@ Video that shows how to work with the program is provided on this website
 </p>
 <p>
 Screenshot of this program
+<br>
 <img src="images/hyperboloid.png"
 </p>
